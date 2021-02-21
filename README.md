@@ -10,5 +10,5 @@
 </h12>
 
 # 
-Jogo desenvolvido durante o mini-curso: Recriando o jogo da cobrinha com JavaScript.  
+Jogo desenvolvido durante o minicurso: Recriando o jogo da cobrinha com JavaScript.  
 Por Gabriela Pinheiro, disponível na plataforma Digital Innovation One.
